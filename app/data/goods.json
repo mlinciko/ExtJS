@@ -1,0 +1,26 @@
+{
+    "success" : true,
+    "goods": [
+        {
+        "productID": 1,
+        "name":"Notebook Lenovo",
+        "description":"Ноутбук ThinkPad T4600",
+        "price":100,
+        "amount":2
+        },
+        {
+        "productID": 2,
+        "name":"Keyboard OKLICK",
+        "description":"Клавиатура OKLICK 140M",
+        "price":50,
+        "amount":8
+        },
+        {
+        "productID": 3,
+        "name":"Network adapter",
+        "description":"Сетевой адаптер WIFI D-Link",
+        "price":7,
+        "amount":0
+        }
+    ]
+}
